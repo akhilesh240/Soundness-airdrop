@@ -1,4 +1,4 @@
-<h1>Soundness Testnet Guide</h1>
+<h1>Soundness Testnet Full Guide</h1>
 
 
 ----
